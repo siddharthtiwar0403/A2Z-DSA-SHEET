@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0560-subarray-sum-equals-k](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0704-binary-search) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 ## Math
 |  |
