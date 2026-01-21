@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0050-powx-n) |
 | [1266-minimum-time-visiting-all-points](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1903-largest-odd-number-in-string](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
