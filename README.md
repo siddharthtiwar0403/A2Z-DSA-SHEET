@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0231-power-of-two) |
 | [1266-minimum-time-visiting-all-points](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1903-largest-odd-number-in-string](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
@@ -146,9 +147,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
