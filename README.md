@@ -157,4 +157,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0231-power-of-two) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
