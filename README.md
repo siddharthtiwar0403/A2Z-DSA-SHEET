@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0231-power-of-two) |
 | [1266-minimum-time-visiting-all-points](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1903-largest-odd-number-in-string](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
@@ -165,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0231-power-of-two) |
 | [0693-binary-number-with-alternating-bits](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0693-binary-number-with-alternating-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
