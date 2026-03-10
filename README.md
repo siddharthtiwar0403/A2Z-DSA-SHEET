@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0231-power-of-two) |
 | [1266-minimum-time-visiting-all-points](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0204-count-primes) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
