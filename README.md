@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2293-min-max-game](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/2293-min-max-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 ## Math
@@ -198,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [2293-min-max-game](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/2293-min-max-game) |
 <!---LeetCode Topics End-->
