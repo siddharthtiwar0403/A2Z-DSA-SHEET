@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1539-kth-missing-positive-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2293-min-max-game](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/2293-min-max-game) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0231-power-of-two) |
 | [1266-minimum-time-visiting-all-points](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1903-largest-odd-number-in-string](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Matrix
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Memoization
 |  |
 | ------- |
