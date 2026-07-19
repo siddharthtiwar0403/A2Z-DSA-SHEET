@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
 | ------- |
