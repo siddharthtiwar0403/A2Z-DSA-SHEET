@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0061-rotate-list) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
