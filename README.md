@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0125-valid-palindrome) |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
