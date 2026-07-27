@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0735-asteroid-collision) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0231-power-of-two) |
+| [0628-maximum-product-of-three-numbers](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1903-largest-odd-number-in-string](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0015-3sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3074-apple-redistribution-into-boxes](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
