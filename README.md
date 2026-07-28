@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2293-min-max-game](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/2293-min-max-game) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Stack
 |  |
