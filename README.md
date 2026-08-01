@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
