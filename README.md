@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Matrix
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 ## Divide and Conquer
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Stack
 |  |
