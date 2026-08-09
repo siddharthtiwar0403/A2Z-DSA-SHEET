@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
+| [3731-find-missing-elements](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3731-find-missing-elements](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3074-apple-redistribution-into-boxes](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3536-maximum-product-of-two-digits](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
