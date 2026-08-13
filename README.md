@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2293-min-max-game](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/2293-min-max-game) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3731-find-missing-elements](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
