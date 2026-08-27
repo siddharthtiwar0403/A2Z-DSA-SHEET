@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1903-largest-odd-number-in-string](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0680-valid-palindrome-ii) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0735-asteroid-collision) |
 | [2293-min-max-game](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/2293-min-max-game) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
